@@ -1,0 +1,24 @@
+{
+    "start-state": [
+        {
+            "x": 25,
+            "y": 24,
+            "population": 2
+        },
+        {
+            "x": 25,
+            "y": 25,
+            "population": 2
+        },
+        {
+            "x": 25,
+            "y": 26,
+            "population": 2
+        }
+    ],
+    "life-min": 1,
+    "life-max": 4,
+    "repro-min": 3,
+    "repro-max": 4,
+    "colorful-grid": true
+}
